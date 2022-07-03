@@ -1,8 +1,5 @@
-<p align="center">
-    <img src="assets/aleem.png" width="180">
-</p>
 <h2 align="center"> Hey, I am 
-Muhammad Abdulaleem 👋 </h2>
+Muhammad Abdul Aleem 👋 </h2>
 <h3 align="center"> Student 😍 </h3>
 
 ### About me 🤵
