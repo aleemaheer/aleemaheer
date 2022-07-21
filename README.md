@@ -4,8 +4,8 @@ Muhammad Abdul Aleem 👋 </h2>
 
 ### About me 🤵
 * Student of Computer Science
-* Learinig is my life
+* Learning is my life
 * My hobby is to find cool open source projects and try to do collaboration.
 - [Twitter](https://twitter.com/aleem_aheer)
-- [Instagram](https://github.com/aleem_aheer)
+- [Instagram](https://www.instagram.com/aleem_aheer/)
 * Thanks 🎉
