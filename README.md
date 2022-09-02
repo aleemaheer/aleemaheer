@@ -3,6 +3,7 @@ Muhammad Abdul Aleem 👋 </h2>
 <h3 align="center"> Student 😍 </h3>
 
 ### About me 🤵
+* Junior Backend Developer
 * Student of Computer Science
 * Learning is my life
 * My hobby is to find cool open source projects and try to do collaboration.
