@@ -5,9 +5,8 @@ Backend Developer || Node.js Developer
 --------------------------------------
 
 * 🌍  I'm based in Islamabad, Pakistan
-* 🖥️  See my portfolio at [MyPortfolio](http://GitHub.com/aleemaheer )
-* ✉️  You can contact me at [aleemaheerup@gmail.com](mailto:aleemaheerup@gmail.com)
-* 🧠  I'm learning Backend technologies
+* 🖥️  Currently working as a software engineer [@Invotyx](https://invotyx.com)
+* ✉️  You can contact me at [aleemaheerup@gmail.com](mailto:aleemaheer5769644@gmail.com)
 * 🤝  I'm open to collaborating on Freelance/open source projects
 
 <a href="https://www.twitter.com/aleem_aheer" target="_blank" rel="noreferrer"><img
