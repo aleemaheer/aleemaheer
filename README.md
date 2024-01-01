@@ -5,7 +5,7 @@ Roku Developer || Backend Developer || Node.js Developer
 --------------------------------------
 
 * 🌍  I'm based in Islamabad, Pakistan
-* 🖥️  Currently working as a software engineer [@Invotyx](https://invotyx.com)
+* 🖥️  Founder [@Mikruniche](https://mikruniche.com)
 * ✉️  You can contact me at [aleemaheerup@gmail.com](mailto:aleemaheer5769644@gmail.com)
 * 🤝  I'm open to collaborating on Freelance/open source projects
 
