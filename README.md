@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Islamabad, Pakistan
 * 🖥️  Founder [@Mikruniche](https://mikruniche.com)
-* ✉️  You can contact me at [abdulaleem@mikruniche.com](mailto:aleemaheer5769644@gmail.com)
+* ✉️  You can contact me at [abdulaleem@mikruniche.com](mailto:abdulaleem@mikruniche.com)
 * 🤝  I'm open to collaborating on Freelance/open source projects
 
 <a href="https://www.twitter.com/aleem_aheer" target="_blank" rel="noreferrer"><img
