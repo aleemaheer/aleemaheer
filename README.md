@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Abdul Aleem
 ============================================================================================================================================
-
-Roku Developer || Backend Developer || Node.js Developer
 --------------------------------------
 
 * 🌍  I'm based in Islamabad, Pakistan
 * 🖥️  Founder [@Mikruniche](https://mikruniche.com)
-* ✉️  You can contact me at [aleemaheerup@gmail.com](mailto:aleemaheer5769644@gmail.com)
+* ✉️  You can contact me at [abdulaleem@mikruniche.com](mailto:aleemaheer5769644@gmail.com)
 * 🤝  I'm open to collaborating on Freelance/open source projects
 
 <a href="https://www.twitter.com/aleem_aheer" target="_blank" rel="noreferrer"><img
